@@ -20,7 +20,7 @@ while True:
                 winsound.Beep(220, 90)
                 winsound.Beep(440, 90)
                 winsound.Beep(440, 90)
-                time.sleep(270)
+                time.sleep(0.27)
                 i+=1
     else: 
         alarm = False
